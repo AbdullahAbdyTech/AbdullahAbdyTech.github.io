@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://aicoursemap.com
+
+# Sitemaps
+Sitemap: https://aicoursemap.com/sitemap.xml
